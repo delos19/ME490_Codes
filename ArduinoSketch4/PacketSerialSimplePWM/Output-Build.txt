@@ -1,0 +1,55 @@
+﻿------ Build started: Project: ArduinoCore, Configuration: Debug AVR ------
+Build started.
+Project "ArduinoCore.cppproj" (default targets):
+Target "PreBuildEvent" skipped, due to false condition; ('$(PreBuildEvent)'!='') was evaluated as (''!='').
+Target "CoreBuild" in file "C:\Program Files (x86)\Atmel\Studio\7.0\Vs\Compiler.targets" from project "C:\Users\booth\Documents\Atmel Studio\7.0\ArduinoSketch4\ArduinoSketch4\ArduinoCore\ArduinoCore.cppproj" (target "Build" depends on it):
+	Task "RunCompilerTask"
+		Shell Utils Path C:\Program Files (x86)\Atmel\Studio\7.0\shellUtils
+		C:\Program Files (x86)\Atmel\Studio\7.0\shellUtils\make.exe all --jobs 4 --output-sync 
+		make: Nothing to be done for 'all'.
+	Done executing task "RunCompilerTask".
+	Task "RunOutputFileVerifyTask"
+	Done executing task "RunOutputFileVerifyTask".
+Done building target "CoreBuild" in project "ArduinoCore.cppproj".
+Target "PostBuildEvent" skipped, due to false condition; ('$(PostBuildEvent)' != '') was evaluated as ('' != '').
+Target "Build" in file "C:\Program Files (x86)\Atmel\Studio\7.0\Vs\Avr.common.targets" from project "C:\Users\booth\Documents\Atmel Studio\7.0\ArduinoSketch4\ArduinoSketch4\ArduinoCore\ArduinoCore.cppproj" (entry point):
+Done building target "Build" in project "ArduinoCore.cppproj".
+Done building project "ArduinoCore.cppproj".
+
+Build succeeded.
+------ Build started: Project: PacketSerialSimplePWM, Configuration: Debug AVR ------
+Build started.
+Project "PacketSerialSimplePWM.cppproj" (default targets):
+Target "PreBuildEvent" skipped, due to false condition; ('$(PreBuildEvent)'!='') was evaluated as (''!='').
+Target "CoreBuild" in file "C:\Program Files (x86)\Atmel\Studio\7.0\Vs\Compiler.targets" from project "C:\Users\booth\Documents\Atmel Studio\7.0\ArduinoSketch4\ArduinoSketch4\PacketSerialSimplePWM\PacketSerialSimplePWM.cppproj" (target "Build" depends on it):
+	Task "RunCompilerTask"
+		Shell Utils Path C:\Program Files (x86)\Atmel\Studio\7.0\shellUtils
+		C:\Program Files (x86)\Atmel\Studio\7.0\shellUtils\make.exe all --jobs 4 --output-sync 
+		Building file: .././Sketch.cpp
+		Invoking: AVR8/GNU C Compiler : 5.4.0
+		"C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-g++.exe" -funsigned-char -funsigned-bitfields -DDEBUG -DF_CPU=16000000L -DARDUINO=10809 -DARDUINO_AVR_UNO -DARDUINO_ARCH_AVR -DUSB_VID=0x2341 -DUSB_PID=0x0043 -DUSB_MANUFACTURER="\"Arduino LLC\""  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"..\\..\ArduinoCore\include\core" -I"..\\..\ArduinoCore\include\libraries\SoftwareSerial" -I"..\\..\ArduinoCore\include\variants\standard"  -Os -fno-threadsafe-statics -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g2 -w -mmcu=atmega328p -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega328p" -c -std=gnu++11 -MD -MP -MF "Sketch.d" -MT"Sketch.d" -MT"Sketch.o"   -o "Sketch.o" ".././Sketch.cpp" 
+		Finished building: .././Sketch.cpp
+		Building target: PacketSerialSimplePWM.elf
+		Invoking: AVR8/GNU Linker : 5.4.0
+		"C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-g++.exe" -o PacketSerialSimplePWM.elf  RoboClaw.o Sketch.o   -Wl,-Map="PacketSerialSimplePWM.map" -Wl,--start-group -Wl,-lm -Wl,-lArduinoCore  -Wl,--end-group -Wl,-L"C:\Users\booth\Documents\Atmel Studio\7.0\ArduinoSketch4\ArduinoSketch4\ArduinoCore\Debug"  -Wl,--gc-sections -mmcu=atmega328p -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega328p" -Os  
+		Finished building target: PacketSerialSimplePWM.elf
+		"C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-objcopy.exe" -O ihex -R .eeprom -R .fuse -R .lock -R .signature -R .user_signatures  "PacketSerialSimplePWM.elf" "PacketSerialSimplePWM.hex"
+		"C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-objcopy.exe" -j .eeprom  --set-section-flags=.eeprom=alloc,load --change-section-lma .eeprom=0  --no-change-warnings -O ihex "PacketSerialSimplePWM.elf" "PacketSerialSimplePWM.eep" || exit 0
+		"C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-objdump.exe" -h -S "PacketSerialSimplePWM.elf" > "PacketSerialSimplePWM.lss"
+		"C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-objcopy.exe" -O srec -R .eeprom -R .fuse -R .lock -R .signature -R .user_signatures "PacketSerialSimplePWM.elf" "PacketSerialSimplePWM.srec"
+		"C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-size.exe" "PacketSerialSimplePWM.elf"
+		   text	   data	    bss	    dec	    hex	filename
+		   5020	     42	    140	   5202	   1452	PacketSerialSimplePWM.elf
+	Done executing task "RunCompilerTask".
+	Task "RunOutputFileVerifyTask"
+				Program Memory Usage 	:	5062 bytes   15.4 % Full
+				Data Memory Usage 		:	182 bytes   8.9 % Full
+	Done executing task "RunOutputFileVerifyTask".
+Done building target "CoreBuild" in project "PacketSerialSimplePWM.cppproj".
+Target "PostBuildEvent" skipped, due to false condition; ('$(PostBuildEvent)' != '') was evaluated as ('' != '').
+Target "Build" in file "C:\Program Files (x86)\Atmel\Studio\7.0\Vs\Avr.common.targets" from project "C:\Users\booth\Documents\Atmel Studio\7.0\ArduinoSketch4\ArduinoSketch4\PacketSerialSimplePWM\PacketSerialSimplePWM.cppproj" (entry point):
+Done building target "Build" in project "PacketSerialSimplePWM.cppproj".
+Done building project "PacketSerialSimplePWM.cppproj".
+
+Build succeeded.
+========== Build: 2 succeeded or up-to-date, 0 failed, 0 skipped ==========
