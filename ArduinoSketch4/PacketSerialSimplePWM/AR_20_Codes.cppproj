@@ -13,7 +13,7 @@
     <ArduinoProjectType>Sketch</ArduinoProjectType>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <Name>PacketSerialSimplePWM</Name>
+    <Name>AR_20_Codes</Name>
     <RootNamespace>PacketSerialSimplePWM</RootNamespace>
     <ArduinoIdeDir>C:\Program Files (x86)\Arduino</ArduinoIdeDir>
     <ToolchainFlavour>Native</ToolchainFlavour>
@@ -224,6 +224,24 @@
     </ToolchainSettings>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="mcp_can.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="mcp_can.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="mcp_can_dfs.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="SPI.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="SPI.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Test_Bed.cpp">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="RoboClaw.cpp">
       <SubType>compile</SubType>
     </Compile>

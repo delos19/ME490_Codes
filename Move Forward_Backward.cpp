@@ -1,5 +1,5 @@
 ﻿/*Begining of Auto generated code by Atmel studio */
-#define F_CPU 16000000L
+#define F_CPU 16000000UL
 #include <avr/io.h>
 #include <util/delay.h>
 #include <Arduino.h>
@@ -28,17 +28,17 @@ void loop() {
 	
 	roboclaw.ForwardM1(address,120); //start Motor1 forward at half speed
 	digitalWrite(ledPin, HIGH);
-	delay(5000);
+	delay(100);
 
 	roboclaw.BackwardM1(address,120);
 	digitalWrite(ledPin, LOW);
-	delay(5000);
+	delay(100);
 
 	roboclaw.ForwardM1(address,96); //start Motor1 forward at half speed
 	digitalWrite(ledPin, HIGH);
-	delay(5000);
+	delay(100);
 
 	roboclaw.BackwardM1(address,32);
 	digitalWrite(ledPin, LOW);
-	delay(5000);
+	delay(100);
 }

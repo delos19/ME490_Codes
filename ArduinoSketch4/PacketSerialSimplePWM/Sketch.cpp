@@ -1,19 +1,12 @@
-﻿/*Begining of Auto generated code by Atmel studio */
+﻿/*//Define the clock speed
 #define F_CPU 16000000L
+
+//Included libraries and header files
 #include <avr/io.h>
 #include <util/delay.h>
 #include <Arduino.h>
-
-/*End of auto generated code by Atmel studio */
-
-//See BareMinimum example for a list of library functions
-
-//Includes required to use Roboclaw library
 #include <SoftwareSerial.h>
 #include "RoboClaw.h"
-//#include "BMSerial.h"
-//Beginning of Auto generated function prototypes by Atmel Studio
-//End of Auto generated function prototypes by Atmel Studio
 
 //See limitations of Arduino SoftwareSerial
 SoftwareSerial serial(0,1);	
@@ -27,21 +20,6 @@ int val = 0;
 int valPerc = 0;
 int potPin = A2;
 double pos = 0;
-//int setPoint = 0;
-//float threshold = 0;
-
-//PID Constants
-//double kp = 2;
-//double ki = 5;
-//double kd = 1;
-
-//unsigned long currentTime, previousTime;
-//double elapsedTime;
-//double error;
-//double lastError;
-//double input, output, setPoint;
-//double cumError, rateError;
-
 
 void setup() {
   //Open roboclaw serial ports
