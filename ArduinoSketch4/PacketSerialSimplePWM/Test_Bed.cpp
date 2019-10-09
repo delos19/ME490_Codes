@@ -4,8 +4,8 @@
 //Included libraries and header files
 #include <avr/io.h>
 #include <util/delay.h>
-#include <Arduino.h>
-#include <SoftwareSerial.h>
+#include "Arduino.h"
+#include "SoftwareSerial.h"
 #include "RoboClaw.h"
 #include "SPI.h"
 #include "mcp_can.h"
@@ -24,7 +24,7 @@ int potPin = A0;
 float pos = 0;
 int threshold = 1;
 int setPoint = 0;
-const int spiCSPin = 10;
+int spiCSPin = 10;
 
 MCP_CAN CAN(spiCSPin);
 
@@ -36,67 +36,41 @@ void setup() {
   pinMode(potPin, INPUT);
   setPoint = 4;
   threshold = 0.1;
+  while (CAN_OK != CAN.begin(CAN_500KBPS))
+  {
+	  Serial.println("CAN BUS Init Failed");
+	  delay(100);
+  }
+  Serial.println("CAN BUS  Init OK!");
   //setPoint = 0;
 }
  
 void loop() {
-	/*val = analogRead(potPin);
-	pos = map(val, 0, 1023, 0, 5);
-	roboclaw.BackwardM1(address, 120);
-	delay(5000);
-	if (pos <= 3.5){
-		digitalWrite(ledPin, LOW);
-	}
-	if (pos > 3.5){
-		digitalWrite(ledPin, HIGH);
-	}   
-	delay(5000);                 
-	val = analogRead(potPin);
-	pos = map(val, 0, 1023, 0, 5);
-	delay(5000);
-	roboclaw.ForwardM1(address	, 50);
-	delay(5000);
-	if (pos <= 3.5){
-		digitalWrite(ledPin, LOW);
-	}
-	if (pos > 3.5){
-		digitalWrite(ledPin, HIGH);
-	}
-	delay(5000);
+  digitalWrite(ledPin, LOW);
+  unsigned char len = 0;
+  unsigned char buf[8];
 	
-/*	
-  roboclaw.ForwardM1(address,120); //start Motor1 forward at half speed
-  digitalWrite(ledPin, HIGH);
-  delay(5000);
-
-  roboclaw.BackwardM1(address,120);
-  digitalWrite(ledPin, LOW);
-  delay(5000);
-
-  roboclaw.ForwardM1(address,96); //start Motor1 forward at half speed
-  digitalWrite(ledPin, HIGH);
-  delay(5000);
-
-  roboclaw.BackwardM1(address,32);
-  digitalWrite(ledPin, LOW);
-  delay(5000);
-*/
-  
-  ////////////////////////////////////////////////////////////////////////////////
-  
- val = analogRead(potPin);
-  pos = map(val, 0, 1023, 0, 5);
-  if (pos >= (setPoint - threshold) && pos <= (setPoint + threshold)) {
-	  roboclaw.ForwardM1(address,0);
-	  Serial.print(pos);
-	}
-  else if (pos > (setPoint - threshold)){
-		roboclaw.ForwardM1(address, 70);
-		Serial.print(pos);
-	}
-  else if (pos < (setPoint + threshold)){
-		roboclaw.BackwardM1(address, 50);
-		Serial.print(pos);
-	}
+  if(CAN_MSGAVAIL == CAN.checkReceive())
+  {
+	  CAN.readMsgBuf(&len, buf);
+	  unsigned long canId = CAN.getCanId();
+	 
+	 val = analogRead(potPin);
+	 pos = map(val, 0, 1023, 0, 5);
+	 setPoint = map(buf[0], 0, 65536, 0, 5);
+	 digitalWrite(ledPin, HIGH);
+	 if (pos >= (setPoint - threshold) && pos <= (setPoint + threshold)) {
+		 roboclaw.ForwardM1(address,0);
+		 Serial.print(pos);
+	 }
+	 else if (pos > (setPoint - threshold)){
+		 roboclaw.ForwardM1(address, 70);
+		 Serial.print(pos);
+	 }
+	 else if (pos < (setPoint + threshold)){
+		 roboclaw.BackwardM1(address, 50);
+		 Serial.print(pos);
+	 }
+  }
 }
 

@@ -49,7 +49,7 @@
 #define _MCP2515DFS_H_
 
 #include <Arduino.h>
-#include <SPI.h>
+#include "SPI.h"
 #include <inttypes.h>
 
 
