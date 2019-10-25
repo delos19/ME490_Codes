@@ -26,48 +26,48 @@ c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/..
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscB)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__fp_round)
-C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                              Test_Bed.o (_ZN14HardwareSerial5beginEmh)
-C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                              RoboClaw.o (_ZN14HardwareSerial5beginEmh)
+C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
                               mcp_can.o (Serial)
-C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
                               C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
-C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
                               RoboClaw.o (_ZN5Print5writeEPKhj)
-C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
                               mcp_can.o (millis)
-C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
                               Test_Bed.o (analogRead)
-C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                               mcp_can.o (pinMode)
-C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
                               Test_Bed.o (_Z3maplllll)
-C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
                               RoboClaw.o (_ZN14SoftwareSerial13active_objectE)
-C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
-                              C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
-C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
-                              C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
+C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                              C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                              C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
-                              C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
+                              C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
-                              C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
+                              C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
-                              C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+                              C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
-                              C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+                              C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
-                              C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o) (__mulsi3)
+                              C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o) (__mulsi3)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
-                              C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o) (__divmodhi4)
+                              C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o) (__divmodhi4)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
-                              C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+                              C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
-                              C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o) (__divmodsi4)
+                              C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o) (__divmodsi4)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
@@ -89,9 +89,9 @@ c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/..
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(random.o)
-                              C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o) (random)
+                              C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o) (random)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
-                              C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
+                              C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(random.o) (__mulohisi3)
 
@@ -459,137 +459,137 @@ Discarded input sections
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
- .group         0x00000000        0x8 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .text          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .data          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .bss           0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .group         0x00000000        0x8 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
  .text._ZN14HardwareSerial3endEv
-                0x00000000       0x44 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .group         0x00000000        0x8 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .group         0x00000000        0x8 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .text          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .data          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .bss           0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000000       0x44 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .group         0x00000000        0x8 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .group         0x00000000        0x8 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .data          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .bss           0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
  .text._ZN5Print17availableForWriteEv
-                0x00000000        0x6 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000000        0x6 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
  .text._ZN5Print5flushEv
-                0x00000000        0x2 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .text          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .data          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .bss           0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .text.atexit   0x00000000        0x6 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000000        0x2 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
  .text._Z8setupUSBv
-                0x00000000        0x2 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .group         0x00000000        0x8 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .group         0x00000000        0x8 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .group         0x00000000        0x8 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .group         0x00000000        0x8 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .text          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .data          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .bss           0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0x2 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print17availableForWriteEv
-                0x00000000        0x6 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0x6 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5flushEv
-                0x00000000        0x2 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0x2 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEPK19__FlashStringHelper
-                0x00000000       0x48 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x48 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printERK6String
-                0x00000000       0x1c C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x1c C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printERK9Printable
-                0x00000000       0x14 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x14 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEPK19__FlashStringHelper
-                0x00000000       0x24 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnERK6String
-                0x00000000       0x24 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEc
-                0x00000000       0x24 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnERK9Printable
-                0x00000000       0x24 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEhi
-                0x00000000        0xe C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0xe C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEhi
-                0x00000000       0x24 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEji
-                0x00000000       0x24 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEmi
-                0x00000000       0x24 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEli
-                0x00000000       0x90 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x90 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEii
-                0x00000000        0xe C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0xe C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEii
-                0x00000000       0x24 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEli
-                0x00000000       0x24 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEdi
-                0x00000000       0x24 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .rodata._ZTV5Print
-                0x00000000        0xc C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .text          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .data          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .bss           0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000000        0xc C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .text.delayMicroseconds
-                0x00000000       0x16 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .text          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .data          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .bss           0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00000000       0x16 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .data          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .bss           0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
  .text.analogReference
-                0x00000000        0x6 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00000000        0x6 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
  .text.analogWrite
-                0x00000000       0xbe C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .text          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .data          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .bss           0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000000       0xbe C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
  .text.digitalRead
-                0x00000000       0x52 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .text          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
- .data          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
- .bss           0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+                0x00000000       0x52 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+ .data          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+ .bss           0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
  .text._Z10randomSeedm
-                0x00000000       0x10 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+                0x00000000       0x10 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
  .text._Z6randoml
-                0x00000000       0x34 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+                0x00000000       0x34 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
  .text._Z6randomll
-                0x00000000       0x44 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+                0x00000000       0x44 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
  .text._Z8makeWordj
-                0x00000000        0x2 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+                0x00000000        0x2 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
  .text._Z8makeWordhh
-                0x00000000        0xa C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
- .group         0x00000000        0x8 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
- .group         0x00000000        0x8 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
- .group         0x00000000        0x8 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
- .text          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
- .data          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
- .bss           0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00000000        0xa C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+ .group         0x00000000        0x8 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+ .group         0x00000000        0x8 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+ .group         0x00000000        0x8 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+ .text          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+ .data          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+ .bss           0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
  .text._ZN5Print17availableForWriteEv
-                0x00000000        0x6 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00000000        0x6 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
  .text._ZN5Print5flushEv
-                0x00000000        0x2 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00000000        0x2 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
  .text._ZN14SoftwareSerial11rx_pin_readEv
-                0x00000000        0xe C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00000000        0xe C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
  .text._ZN14SoftwareSerial12subtract_capEjj
-                0x00000000       0x12 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00000000       0x12 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
  .text._ZN14SoftwareSerial3endEv
-                0x00000000        0x4 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
- .text          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .data          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .bss           0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                0x00000000        0x4 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+ .text          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
  .text.__cxa_pure_virtual
-                0x00000000        0x4 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                0x00000000        0x4 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
  .text.__cxa_deleted_virtual
-                0x00000000        0x4 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_info    0x00000000       0x76 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_abbrev  0x00000000       0x6d C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                0x00000000        0x4 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x76 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x6d C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
  .debug_aranges
-                0x00000000       0x20 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_ranges  0x00000000       0x10 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_line    0x00000000       0xa9 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_str     0x00000000      0x1a3 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .comment       0x00000000       0x31 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_frame   0x00000000       0x34 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .text          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
- .data          0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
- .bss           0x00000000        0x0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x00000000       0x20 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x10 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0xa9 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x1a3 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
@@ -866,7 +866,7 @@ LOAD RoboClaw.o
 LOAD Sketch.o
 START GROUP
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
-LOAD C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a
+LOAD C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a
 END GROUP
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
@@ -974,7 +974,7 @@ END GROUP
 .rela.plt
  *(.rela.plt)
 
-.text           0x00000000     0x24c0
+.text           0x00000000     0x24f0
  *(.vectors)
  .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
                 0x00000000                __vector_default
@@ -993,22 +993,22 @@ END GROUP
  *libc.a:*(.progmem.data)
  *(.progmem*)
  .progmem.data.digital_pin_to_timer_PGM
-                0x000000b0       0x14 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000b0       0x14 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x000000b0                digital_pin_to_timer_PGM
  .progmem.data.digital_pin_to_bit_mask_PGM
-                0x000000c4       0x14 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000c4       0x14 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x000000c4                digital_pin_to_bit_mask_PGM
  .progmem.data.digital_pin_to_port_PGM
-                0x000000d8       0x14 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000d8       0x14 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x000000d8                digital_pin_to_port_PGM
  .progmem.data.port_to_input_PGM
-                0x000000ec        0xa C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000ec        0xa C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x000000ec                port_to_input_PGM
  .progmem.data.port_to_output_PGM
-                0x000000f6        0xa C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000f6        0xa C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x000000f6                port_to_output_PGM
  .progmem.data.port_to_mode_PGM
-                0x00000100        0xa C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000100        0xa C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x00000100                port_to_mode_PGM
                 0x0000010a                . = ALIGN (0x2)
  *(.jumptables)
@@ -1018,7 +1018,7 @@ END GROUP
                 0x0000010a                __ctors_start = .
  *(.ctors)
  .ctors         0x0000010a        0x2 Test_Bed.o
- .ctors         0x0000010c        0x2 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .ctors         0x0000010c        0x2 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
                 0x0000010e                __ctors_end = .
                 0x0000010e                __dtors_start = .
  *(.dtors)
@@ -1156,312 +1156,312 @@ END GROUP
  .text._ZN8SPIClass5beginEv
                 0x0000093c       0x2c SPI.o
                 0x0000093c                _ZN8SPIClass5beginEv
- .text.setup    0x00000968       0x80 Test_Bed.o
+ .text.setup    0x00000968       0x7c Test_Bed.o
                 0x00000968                setup
- .text.loop     0x000009e8      0x1ee Test_Bed.o
-                0x000009e8                loop
+ .text.loop     0x000009e4      0x20c Test_Bed.o
+                0x000009e4                loop
  .text.startup._GLOBAL__sub_I_serial
-                0x00000bd6       0x2e Test_Bed.o
+                0x00000bf0       0x3c Test_Bed.o
  .text.exit._GLOBAL__sub_D_serial
-                0x00000c04       0x10 Test_Bed.o
+                0x00000c2c       0x18 Test_Bed.o
  .text._ZN5Print17availableForWriteEv
-                0x00000c14        0x6 RoboClaw.o
-                0x00000c14                _ZN5Print17availableForWriteEv
+                0x00000c44        0x6 RoboClaw.o
+                0x00000c44                _ZN5Print17availableForWriteEv
  .text._ZN8RoboClaw5flushEv
-                0x00000c1a       0x1e RoboClaw.o
-                0x00000c1a                _ZN8RoboClaw5flushEv
+                0x00000c4a       0x1e RoboClaw.o
+                0x00000c4a                _ZN8RoboClaw5flushEv
  .text._ZN8RoboClaw9availableEv
-                0x00000c38       0x2c RoboClaw.o
-                0x00000c38                _ZN8RoboClaw9availableEv
+                0x00000c68       0x2c RoboClaw.o
+                0x00000c68                _ZN8RoboClaw9availableEv
  .text._ZN8RoboClaw4readEv
-                0x00000c64       0x2c RoboClaw.o
-                0x00000c64                _ZN8RoboClaw4readEv
+                0x00000c94       0x2c RoboClaw.o
+                0x00000c94                _ZN8RoboClaw4readEv
  .text._ZN8RoboClaw5writeEh
-                0x00000c90       0x2c RoboClaw.o
-                0x00000c90                _ZN8RoboClaw5writeEh
+                0x00000cc0       0x2c RoboClaw.o
+                0x00000cc0                _ZN8RoboClaw5writeEh
  .text._ZN8RoboClaw4peekEv
-                0x00000cbc       0x2c RoboClaw.o
-                0x00000cbc                _ZN8RoboClaw4peekEv
+                0x00000cec       0x2c RoboClaw.o
+                0x00000cec                _ZN8RoboClaw4peekEv
  .text._ZN8RoboClawC2EP14SoftwareSerialm
-                0x00000ce8       0x30 RoboClaw.o
-                0x00000ce8                _ZN8RoboClawC1EP14SoftwareSerialm
-                0x00000ce8                _ZN8RoboClawC2EP14SoftwareSerialm
+                0x00000d18       0x30 RoboClaw.o
+                0x00000d18                _ZN8RoboClawC1EP14SoftwareSerialm
+                0x00000d18                _ZN8RoboClawC2EP14SoftwareSerialm
  .text._ZN8RoboClawD2Ev
-                0x00000d18        0x2 RoboClaw.o
-                0x00000d18                _ZN8RoboClawD2Ev
-                0x00000d18                _ZN8RoboClawD1Ev
+                0x00000d48        0x2 RoboClaw.o
+                0x00000d48                _ZN8RoboClawD2Ev
+                0x00000d48                _ZN8RoboClawD1Ev
  .text._ZN8RoboClaw5beginEl
-                0x00000d1a       0x18 RoboClaw.o
-                0x00000d1a                _ZN8RoboClaw5beginEl
+                0x00000d4a       0x18 RoboClaw.o
+                0x00000d4a                _ZN8RoboClaw5beginEl
  .text._ZN8RoboClaw4readEm
-                0x00000d32       0xf0 RoboClaw.o
-                0x00000d32                _ZN8RoboClaw4readEm
+                0x00000d62       0xf0 RoboClaw.o
+                0x00000d62                _ZN8RoboClaw4readEm
  .text._ZN8RoboClaw10crc_updateEh
-                0x00000e22       0x32 RoboClaw.o
-                0x00000e22                _ZN8RoboClaw10crc_updateEh
+                0x00000e52       0x32 RoboClaw.o
+                0x00000e52                _ZN8RoboClaw10crc_updateEh
  .text._ZN8RoboClaw7write_nEhz
-                0x00000e54       0xbc RoboClaw.o
-                0x00000e54                _ZN8RoboClaw7write_nEhz
+                0x00000e84       0xbc RoboClaw.o
+                0x00000e84                _ZN8RoboClaw7write_nEhz
  .text._ZN8RoboClaw9ForwardM1Ehh
-                0x00000f10       0x2c RoboClaw.o
-                0x00000f10                _ZN8RoboClaw9ForwardM1Ehh
+                0x00000f40       0x2c RoboClaw.o
+                0x00000f40                _ZN8RoboClaw9ForwardM1Ehh
  .text._ZN8RoboClaw10BackwardM1Ehh
-                0x00000f3c       0x2e RoboClaw.o
-                0x00000f3c                _ZN8RoboClaw10BackwardM1Ehh
+                0x00000f6c       0x2e RoboClaw.o
+                0x00000f6c                _ZN8RoboClaw10BackwardM1Ehh
  .text.avr-libc.fplib
-                0x00000f6a        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
-                0x00000f6a                __nesf2
-                0x00000f6a                __eqsf2
-                0x00000f6a                __cmpsf2
-                0x00000f6a                __ltsf2
-                0x00000f6a                __lesf2
+                0x00000f9a        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x00000f9a                __nesf2
+                0x00000f9a                __eqsf2
+                0x00000f9a                __cmpsf2
+                0x00000f9a                __ltsf2
+                0x00000f9a                __lesf2
  .text.avr-libc.fplib
-                0x00000f74       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
-                0x00000f74                __fixunssfsi
+                0x00000fa4       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00000fa4                __fixunssfsi
  .text.avr-libc.fplib
-                0x00000fd2       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
-                0x00000fd2                __floatunsisf
-                0x00000fd6                __floatsisf
+                0x00001002       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00001002                __floatunsisf
+                0x00001006                __floatsisf
  .text.avr-libc.fplib
-                0x0000104c       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
-                0x0000104c                __fp_cmp
+                0x0000107c       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x0000107c                __fp_cmp
  .text.avr-libc.fplib
-                0x00001094       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
-                0x00001094                __fp_split3
-                0x000010a4                __fp_splitA
+                0x000010c4       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x000010c4                __fp_split3
+                0x000010d4                __fp_splitA
  .text.avr-libc.fplib
-                0x000010d8        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
-                0x000010d8                __fp_zero
-                0x000010da                __fp_szero
+                0x00001108        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00001108                __fp_zero
+                0x0000110a                __fp_szero
  .text.avr-libc.fplib
-                0x000010e6        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
-                0x000010e6                __mulsf3
+                0x00001116        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00001116                __mulsf3
  .text.avr-libc.fplib
-                0x000010ee       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
-                0x0000110c                __mulsf3x
-                0x00001112                __mulsf3_pse
+                0x0000111e       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x0000113c                __mulsf3x
+                0x00001142                __mulsf3_pse
  .text.avr-libc.fplib
-                0x000011c0        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
-                0x000011c0                __fp_inf
+                0x000011f0        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x000011f0                __fp_inf
  .text.avr-libc.fplib
-                0x000011cc        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
-                0x000011cc                __fp_nan
+                0x000011fc        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x000011fc                __fp_nan
  .text.avr-libc.fplib
-                0x000011d2        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
-                0x000011d2                __fp_pscA
+                0x00001202        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00001202                __fp_pscA
  .text.avr-libc.fplib
-                0x000011e0        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
-                0x000011e0                __fp_pscB
+                0x00001210        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00001210                __fp_pscB
  .text.avr-libc.fplib
-                0x000011ee       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
-                0x000011ee                __fp_round
+                0x0000121e       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x0000121e                __fp_round
  .text._ZN14HardwareSerial9availableEv
-                0x00001210       0x18 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x00001210                _ZN14HardwareSerial9availableEv
+                0x00001240       0x18 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00001240                _ZN14HardwareSerial9availableEv
  .text._ZN14HardwareSerial4peekEv
-                0x00001228       0x1c C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x00001228                _ZN14HardwareSerial4peekEv
+                0x00001258       0x1c C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00001258                _ZN14HardwareSerial4peekEv
  .text._ZN14HardwareSerial4readEv
-                0x00001244       0x28 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x00001244                _ZN14HardwareSerial4readEv
+                0x00001274       0x28 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00001274                _ZN14HardwareSerial4readEv
  .text._ZN14HardwareSerial17availableForWriteEv
-                0x0000126c       0x1e C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x0000126c                _ZN14HardwareSerial17availableForWriteEv
+                0x0000129c       0x1e C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000129c                _ZN14HardwareSerial17availableForWriteEv
  .text._Z14serialEventRunv
-                0x0000128a       0x1c C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x0000128a                _Z14serialEventRunv
+                0x000012ba       0x1c C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000012ba                _Z14serialEventRunv
  .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
-                0x000012a6       0x44 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x000012a6                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x000012d6       0x44 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000012d6                _ZN14HardwareSerial17_tx_udr_empty_irqEv
  .text._ZN14HardwareSerial5writeEh
-                0x000012ea       0x9a C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x000012ea                _ZN14HardwareSerial5writeEh
+                0x0000131a       0x9a C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000131a                _ZN14HardwareSerial5writeEh
  .text._ZN14HardwareSerial5flushEv
-                0x00001384       0x44 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x00001384                _ZN14HardwareSerial5flushEv
+                0x000013b4       0x44 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000013b4                _ZN14HardwareSerial5flushEv
  .text._ZN14HardwareSerial5beginEmh
-                0x000013c8       0xca C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x000013c8                _ZN14HardwareSerial5beginEmh
+                0x000013f8       0xca C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000013f8                _ZN14HardwareSerial5beginEmh
  .text.__vector_18
-                0x00001492       0x64 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                0x00001492                __vector_18
+                0x000014c2       0x64 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000014c2                __vector_18
  .text.__vector_19
-                0x000014f6       0x4c C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                0x000014f6                __vector_19
+                0x00001526       0x4c C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00001526                __vector_19
  .text._Z17Serial0_availablev
-                0x00001542       0x14 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                0x00001542                _Z17Serial0_availablev
+                0x00001572       0x14 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00001572                _Z17Serial0_availablev
  .text.startup._GLOBAL__sub_I___vector_18
-                0x00001556       0x5a C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00001586       0x5a C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
  .text.initVariant
-                0x000015b0        0x2 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                0x000015b0                initVariant
+                0x000015e0        0x2 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x000015e0                initVariant
  .text.startup.main
-                0x000015b2       0x1e C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                0x000015b2                main
+                0x000015e2       0x1e C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x000015e2                main
  .text._ZN5Print5writeEPKhj
-                0x000015d0       0x54 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x000015d0                _ZN5Print5writeEPKhj
+                0x00001600       0x54 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001600                _ZN5Print5writeEPKhj
  .text._ZN5Print5writeEPKc
-                0x00001624       0x2a C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x00001624                _ZN5Print5writeEPKc
+                0x00001654       0x2a C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001654                _ZN5Print5writeEPKc
  .text._ZN5Print5printEPKc
-                0x0000164e        0x4 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x0000164e                _ZN5Print5printEPKc
+                0x0000167e        0x4 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000167e                _ZN5Print5printEPKc
  .text._ZN5Print5printEc
-                0x00001652        0xe C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x00001652                _ZN5Print5printEc
+                0x00001682        0xe C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001682                _ZN5Print5printEc
  .text._ZN5Print7printlnEv
-                0x00001660        0x8 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x00001660                _ZN5Print7printlnEv
+                0x00001690        0x8 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001690                _ZN5Print7printlnEv
  .text._ZN5Print7printlnEPKc
-                0x00001668       0x24 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x00001668                _ZN5Print7printlnEPKc
+                0x00001698       0x24 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001698                _ZN5Print7printlnEPKc
  .text._ZN5Print11printNumberEmh
-                0x0000168c       0x92 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x0000168c                _ZN5Print11printNumberEmh
+                0x000016bc       0x92 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x000016bc                _ZN5Print11printNumberEmh
  .text._ZN5Print5printEmi
-                0x0000171e       0x1a C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x0000171e                _ZN5Print5printEmi
+                0x0000174e       0x1a C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000174e                _ZN5Print5printEmi
  .text._ZN5Print5printEji
-                0x00001738        0xc C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x00001738                _ZN5Print5printEji
+                0x00001768        0xc C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001768                _ZN5Print5printEji
  .text._ZN5Print10printFloatEdh
-                0x00001744      0x1b6 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x00001744                _ZN5Print10printFloatEdh
+                0x00001774      0x1b6 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001774                _ZN5Print10printFloatEdh
  .text._ZN5Print5printEdi
-                0x000018fa        0x4 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x000018fa                _ZN5Print5printEdi
+                0x0000192a        0x4 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000192a                _ZN5Print5printEdi
  .text.__vector_16
-                0x000018fe       0x94 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x000018fe                __vector_16
- .text.millis   0x00001992       0x18 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x00001992                millis
- .text.micros   0x000019aa       0x4a C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x000019aa                micros
- .text.delay    0x000019f4       0x78 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x000019f4                delay
- .text.init     0x00001a6c       0x76 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x00001a6c                init
+                0x0000192e       0x94 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0000192e                __vector_16
+ .text.millis   0x000019c2       0x18 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000019c2                millis
+ .text.micros   0x000019da       0x4a C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000019da                micros
+ .text.delay    0x00001a24       0x78 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00001a24                delay
+ .text.init     0x00001a9c       0x76 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00001a9c                init
  .text.analogRead
-                0x00001ae2       0x3a C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
-                0x00001ae2                analogRead
+                0x00001b12       0x3a C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00001b12                analogRead
  .text.turnOffPWM
-                0x00001b1c       0x52 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .text.pinMode  0x00001b6e       0x78 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x00001b6e                pinMode
+                0x00001b4c       0x52 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x00001b9e       0x78 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001b9e                pinMode
  .text.digitalWrite
-                0x00001be6       0x5e C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x00001be6                digitalWrite
+                0x00001c16       0x5e C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001c16                digitalWrite
  .text._Z3maplllll
-                0x00001c44       0x82 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
-                0x00001c44                _Z3maplllll
+                0x00001c74       0x82 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+                0x00001c74                _Z3maplllll
  .text._ZN14SoftwareSerial4readEv
-                0x00001cc6       0x42 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00001cc6                _ZN14SoftwareSerial4readEv
+                0x00001cf6       0x42 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00001cf6                _ZN14SoftwareSerial4readEv
  .text._ZN14SoftwareSerial5writeEh
-                0x00001d08       0xa0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00001d08                _ZN14SoftwareSerial5writeEh
+                0x00001d38       0xa0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00001d38                _ZN14SoftwareSerial5writeEh
  .text._ZN14SoftwareSerial5flushEv
-                0x00001da8        0x2 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00001da8                _ZN14SoftwareSerial5flushEv
+                0x00001dd8        0x2 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00001dd8                _ZN14SoftwareSerial5flushEv
  .text._ZN14SoftwareSerial4peekEv
-                0x00001daa       0x30 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00001daa                _ZN14SoftwareSerial4peekEv
+                0x00001dda       0x30 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00001dda                _ZN14SoftwareSerial4peekEv
  .text._ZN14SoftwareSerial9availableEv
-                0x00001dda       0x30 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00001dda                _ZN14SoftwareSerial9availableEv
+                0x00001e0a       0x30 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00001e0a                _ZN14SoftwareSerial9availableEv
  .text._ZN14SoftwareSerial13stopListeningEv
-                0x00001e0a       0x2c C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00001e0a                _ZN14SoftwareSerial13stopListeningEv
+                0x00001e3a       0x2c C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00001e3a                _ZN14SoftwareSerial13stopListeningEv
  .text._ZN14SoftwareSerial6listenEv
-                0x00001e36       0x52 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00001e36                _ZN14SoftwareSerial6listenEv
+                0x00001e66       0x52 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00001e66                _ZN14SoftwareSerial6listenEv
  .text.__vector_3
-                0x00001e88       0xf4 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00001e88                __vector_5
-                0x00001e88                __vector_4
-                0x00001e88                __vector_3
+                0x00001eb8       0xf4 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00001eb8                __vector_5
+                0x00001eb8                __vector_4
+                0x00001eb8                __vector_3
  .text._ZN14SoftwareSerialD2Ev
-                0x00001f7c        0xe C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00001f7c                _ZN14SoftwareSerialD1Ev
-                0x00001f7c                _ZN14SoftwareSerialD2Ev
+                0x00001fac        0xe C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00001fac                _ZN14SoftwareSerialD1Ev
+                0x00001fac                _ZN14SoftwareSerialD2Ev
  .text._ZN14SoftwareSerial5setTXEh
-                0x00001f8a       0x52 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00001f8a                _ZN14SoftwareSerial5setTXEh
+                0x00001fba       0x52 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00001fba                _ZN14SoftwareSerial5setTXEh
  .text._ZN14SoftwareSerial5setRXEh
-                0x00001fdc       0x52 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00001fdc                _ZN14SoftwareSerial5setRXEh
+                0x0000200c       0x52 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x0000200c                _ZN14SoftwareSerial5setRXEh
  .text._ZN14SoftwareSerialC2Ehhb
-                0x0000202e       0x56 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x0000202e                _ZN14SoftwareSerialC1Ehhb
-                0x0000202e                _ZN14SoftwareSerialC2Ehhb
+                0x0000205e       0x56 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x0000205e                _ZN14SoftwareSerialC1Ehhb
+                0x0000205e                _ZN14SoftwareSerialC2Ehhb
  .text._ZN14SoftwareSerial5beginEl
-                0x00002084      0x11c C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00002084                _ZN14SoftwareSerial5beginEl
- .text.__empty  0x000021a0        0x2 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
-                0x000021a0                yield
+                0x000020b4      0x11c C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x000020b4                _ZN14SoftwareSerial5beginEl
+ .text.__empty  0x000021d0        0x2 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x000021d0                yield
  .text.avr-libc.fplib
-                0x000021a2        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
-                0x000021a2                __subsf3
-                0x000021a4                __addsf3
+                0x000021d2        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x000021d2                __subsf3
+                0x000021d4                __addsf3
  .text.avr-libc.fplib
-                0x000021b0       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
-                0x000021d2                __addsf3x
+                0x000021e0       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x00002202                __addsf3x
  .text.avr-libc.fplib
-                0x0000227c        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
-                0x0000227c                __divsf3
+                0x000022ac        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x000022ac                __divsf3
  .text.avr-libc.fplib
-                0x00002284       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
-                0x000022a4                __divsf3x
-                0x000022aa                __divsf3_pse
+                0x000022b4       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x000022d4                __divsf3x
+                0x000022da                __divsf3_pse
  .text.avr-libc.fplib
-                0x00002360        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
-                0x00002360                __gesf2
-                0x00002360                __gtsf2
+                0x00002390        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x00002390                __gesf2
+                0x00002390                __gtsf2
  .text.avr-libc.fplib
-                0x0000236a        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
-                0x0000236a                __unordsf2
+                0x0000239a        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                0x0000239a                __unordsf2
  .text.libgcc.mul
-                0x00002374       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
-                0x00002374                __mulsi3
+                0x000023a4       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+                0x000023a4                __mulsi3
  .text.libgcc.div
-                0x00002394       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
-                0x00002394                _div
-                0x00002394                __divmodhi4
+                0x000023c4       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x000023c4                _div
+                0x000023c4                __divmodhi4
  .text.libgcc.div
-                0x000023bc       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
-                0x000023bc                __udivmodsi4
+                0x000023ec       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x000023ec                __udivmodsi4
  .text.libgcc.div
-                0x00002400       0x2e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
-                0x00002400                __divmodsi4
+                0x00002430       0x2e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                0x00002430                __divmodsi4
  .text.libgcc.div
-                0x0000242e       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
-                0x0000242e                __negsi2
- .text.libgcc   0x0000243e        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
-                0x0000243e                __tablejump2__
+                0x0000245e       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                0x0000245e                __negsi2
+ .text.libgcc   0x0000246e        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x0000246e                __tablejump2__
  .text.libgcc.mul
-                0x0000244a       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
-                0x0000244a                __muluhisi3
+                0x0000247a       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                0x0000247a                __muluhisi3
  .text.libgcc.div
-                0x00002460       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
-                0x00002460                __udivmodhi4
+                0x00002490       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00002490                __udivmodhi4
  .text.libgcc.mul
-                0x00002488       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
-                0x00002488                __umulhisi3
-                0x000024a6                . = ALIGN (0x2)
+                0x000024b8       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x000024b8                __umulhisi3
+                0x000024d6                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x000024a6        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
-                0x000024a6                _exit
-                0x000024a6                exit
+ .fini9         0x000024d6        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x000024d6                _exit
+                0x000024d6                exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
  *(.fini7)
  *(.fini7)
  *(.fini6)
- .fini6         0x000024a6       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_dtors.o)
-                0x000024a6                __do_global_dtors
+ .fini6         0x000024d6       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_dtors.o)
+                0x000024d6                __do_global_dtors
  *(.fini6)
  *(.fini5)
  *(.fini5)
@@ -1474,11 +1474,11 @@ END GROUP
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x000024bc        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .fini0         0x000024ec        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
  *(.fini0)
-                0x000024c0                _etext = .
+                0x000024f0                _etext = .
 
-.data           0x00800100      0x286 load address 0x000024c0
+.data           0x00800100      0x286 load address 0x000024f0
                 0x00800100                PROVIDE (__data_start, .)
  *(.data)
  *(.data*)
@@ -1493,7 +1493,7 @@ END GROUP
  .data.ledPin   0x00800106        0x2 Test_Bed.o
                 0x00800106                ledPin
  .data.analog_reference
-                0x00800108        0x1 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00800108        0x1 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
                 0x00800108                analog_reference
  *(.gnu.linkonce.d*)
  *(.rodata)
@@ -1501,25 +1501,26 @@ END GROUP
  .rodata.str1.1
                 0x00800109      0x215 mcp_can.o
  .rodata.str1.1
-                0x0080031e       0x26 Test_Bed.o
+                0x0080031e       0x25 Test_Bed.o
  .rodata._ZTV8RoboClaw
-                0x00800344       0x12 RoboClaw.o
-                0x00800344                _ZTV8RoboClaw
+                0x00800343       0x12 RoboClaw.o
+                0x00800343                _ZTV8RoboClaw
  .rodata._ZTV14HardwareSerial
-                0x00800356       0x12 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x00800356                _ZTV14HardwareSerial
+                0x00800355       0x12 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00800355                _ZTV14HardwareSerial
  .rodata.str1.1
-                0x00800368        0xc C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00800367        0xc C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
                                   0xf (size before relaxing)
  .rodata._ZTV14SoftwareSerial
-                0x00800374       0x12 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00800374                _ZTV14SoftwareSerial
+                0x00800373       0x12 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00800373                _ZTV14SoftwareSerial
  *(.gnu.linkonce.r*)
                 0x00800386                . = ALIGN (0x2)
+ *fill*         0x00800385        0x1 
                 0x00800386                _edata = .
                 0x00800386                PROVIDE (__data_end, .)
 
-.bss            0x00800386      0x136
+.bss            0x00800386      0x156
                 0x00800386                PROVIDE (__bss_start, .)
  *(.bss)
  *(.bss*)
@@ -1536,48 +1537,52 @@ END GROUP
                 0x00800389                SPI
  .bss.CAN       0x0080038a        0xb Test_Bed.o
                 0x0080038a                CAN
- .bss.setPoint  0x00800395        0x2 Test_Bed.o
-                0x00800395                setPoint
- .bss.pos       0x00800397        0x4 Test_Bed.o
-                0x00800397                pos
- .bss.val       0x0080039b        0x2 Test_Bed.o
-                0x0080039b                val
- .bss.roboclaw  0x0080039d       0x16 Test_Bed.o
-                0x0080039d                roboclaw
- .bss.serial    0x008003b3       0x1f Test_Bed.o
-                0x008003b3                serial
- .bss.Serial    0x008003d2       0x9d C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                0x008003d2                Serial
+ .bss.raw       0x00800395        0x1 Test_Bed.o
+                0x00800395                raw
+ .bss.setPoint  0x00800396        0x2 Test_Bed.o
+                0x00800396                setPoint
+ .bss.pos       0x00800398        0x4 Test_Bed.o
+                0x00800398                pos
+ .bss.val       0x0080039c        0x2 Test_Bed.o
+                0x0080039c                val
+ .bss.roboclaw  0x0080039e       0x16 Test_Bed.o
+                0x0080039e                roboclaw
+ .bss.s1        0x008003b4       0x1f Test_Bed.o
+                0x008003b4                s1
+ .bss.serial    0x008003d3       0x1f Test_Bed.o
+                0x008003d3                serial
+ .bss.Serial    0x008003f2       0x9d C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x008003f2                Serial
  .bss.timer0_fract
-                0x0080046f        0x1 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0080048f        0x1 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .bss.timer0_millis
-                0x00800470        0x4 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x00800470                timer0_millis
+                0x00800490        0x4 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00800490                timer0_millis
  .bss.timer0_overflow_count
-                0x00800474        0x4 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x00800474                timer0_overflow_count
+                0x00800494        0x4 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00800494                timer0_overflow_count
  .bss._ZN14SoftwareSerial20_receive_buffer_headE
-                0x00800478        0x1 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00800478                _ZN14SoftwareSerial20_receive_buffer_headE
+                0x00800498        0x1 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00800498                _ZN14SoftwareSerial20_receive_buffer_headE
  .bss._ZN14SoftwareSerial20_receive_buffer_tailE
-                0x00800479        0x1 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x00800479                _ZN14SoftwareSerial20_receive_buffer_tailE
+                0x00800499        0x1 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00800499                _ZN14SoftwareSerial20_receive_buffer_tailE
  .bss._ZN14SoftwareSerial15_receive_bufferE
-                0x0080047a       0x40 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x0080047a                _ZN14SoftwareSerial15_receive_bufferE
+                0x0080049a       0x40 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x0080049a                _ZN14SoftwareSerial15_receive_bufferE
  .bss._ZN14SoftwareSerial13active_objectE
-                0x008004ba        0x2 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
-                0x008004ba                _ZN14SoftwareSerial13active_objectE
+                0x008004da        0x2 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x008004da                _ZN14SoftwareSerial13active_objectE
  *(COMMON)
-                0x008004bc                PROVIDE (__bss_end, .)
-                0x000024c0                __data_load_start = LOADADDR (.data)
-                0x00002746                __data_load_end = (__data_load_start + SIZEOF (.data))
+                0x008004dc                PROVIDE (__bss_end, .)
+                0x000024f0                __data_load_start = LOADADDR (.data)
+                0x00002776                __data_load_end = (__data_load_start + SIZEOF (.data))
 
-.noinit         0x008004bc        0x0
+.noinit         0x008004dc        0x0
                 [!provide]                PROVIDE (__noinit_start, .)
  *(.noinit*)
                 [!provide]                PROVIDE (__noinit_end, .)
-                0x008004bc                _end = .
+                0x008004dc                _end = .
                 [!provide]                PROVIDE (__heap_start, .)
 
 .eeprom         0x00810000        0x0
@@ -1624,16 +1629,16 @@ END GROUP
  .comment       0x00000030       0x31 SPI.o
  .comment       0x00000030       0x31 Test_Bed.o
  .comment       0x00000030       0x31 RoboClaw.o
- .comment       0x00000030       0x31 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .comment       0x00000030       0x31 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .comment       0x00000030       0x31 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .comment       0x00000030       0x31 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .comment       0x00000030       0x31 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .comment       0x00000030       0x31 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .comment       0x00000030       0x31 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .comment       0x00000030       0x31 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
- .comment       0x00000030       0x31 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
- .comment       0x00000030       0x31 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .comment       0x00000030       0x31 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .comment       0x00000030       0x31 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .comment       0x00000030       0x31 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .comment       0x00000030       0x31 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+ .comment       0x00000030       0x31 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+ .comment       0x00000030       0x31 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
 .note.gnu.avr.deviceinfo
                 0x00000000       0x40
@@ -1666,146 +1671,146 @@ END GROUP
  .debug_aranges
                 0x00000270      0x3b8 RoboClaw.o
  .debug_aranges
-                0x00000628       0x68 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000628       0x68 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
  .debug_aranges
-                0x00000690       0x48 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000690       0x48 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
  .debug_aranges
-                0x000006d8       0x30 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x000006d8       0x30 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
  .debug_aranges
-                0x00000708      0x100 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000708      0x100 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .debug_aranges
-                0x00000808       0x48 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000808       0x48 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .debug_aranges
-                0x00000850       0x30 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00000850       0x30 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
  .debug_aranges
-                0x00000880       0x38 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000880       0x38 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
  .debug_aranges
-                0x000008b8       0x48 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+                0x000008b8       0x48 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
  .debug_aranges
-                0x00000900       0xa8 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+                0x00000900       0xa8 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
  .debug_aranges
-                0x000009a8       0x20 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x000009a8       0x20 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000    0x1643e
+.debug_info     0x00000000    0x16482
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
  .debug_info    0x000005f4     0x3565 mcp_can.o
  .debug_info    0x00003b59      0x5b2 SPI.o
- .debug_info    0x0000410b     0x1423 Test_Bed.o
- .debug_info    0x0000552e     0x72ca RoboClaw.o
- .debug_info    0x0000c7f8     0x1f64 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_info    0x0000e75c     0x1b16 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_info    0x00010272      0x237 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_info    0x000104a9     0x28ff C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_info    0x00012da8      0x2cb C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_info    0x00013073      0x26d C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .debug_info    0x000132e0      0x5fe C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_info    0x000138de      0x230 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
- .debug_info    0x00013b0e     0x28f2 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
- .debug_info    0x00016400       0x3e C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_info    0x0000410b     0x1467 Test_Bed.o
+ .debug_info    0x00005572     0x72ca RoboClaw.o
+ .debug_info    0x0000c83c     0x1f64 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_info    0x0000e7a0     0x1b16 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_info    0x000102b6      0x237 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x000104ed     0x28ff C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x00012dec      0x2cb C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x000130b7      0x26d C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_info    0x00013324      0x5fe C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x00013922      0x230 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+ .debug_info    0x00013b52     0x28f2 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+ .debug_info    0x00016444       0x3e C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_abbrev   0x00000000     0x3056
+.debug_abbrev   0x00000000     0x300f
  *(.debug_abbrev)
  .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
  .debug_abbrev  0x000005a2      0x51c mcp_can.o
  .debug_abbrev  0x00000abe      0x24f SPI.o
- .debug_abbrev  0x00000d0d      0x3d5 Test_Bed.o
- .debug_abbrev  0x000010e2      0x5dc RoboClaw.o
- .debug_abbrev  0x000016be      0x4b7 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_abbrev  0x00001b75      0x3ce C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_abbrev  0x00001f43      0x12d C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_abbrev  0x00002070      0x47a C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_abbrev  0x000024ea      0x146 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_abbrev  0x00002630      0x16b C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .debug_abbrev  0x0000279b      0x15b C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_abbrev  0x000028f6      0x12b C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
- .debug_abbrev  0x00002a21      0x60b C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
- .debug_abbrev  0x0000302c       0x2a C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_abbrev  0x00000d0d      0x38e Test_Bed.o
+ .debug_abbrev  0x0000109b      0x5dc RoboClaw.o
+ .debug_abbrev  0x00001677      0x4b7 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_abbrev  0x00001b2e      0x3ce C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_abbrev  0x00001efc      0x12d C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x00002029      0x47a C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x000024a3      0x146 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x000025e9      0x16b C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_abbrev  0x00002754      0x15b C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x000028af      0x12b C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+ .debug_abbrev  0x000029da      0x60b C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+ .debug_abbrev  0x00002fe5       0x2a C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_line     0x00000000     0x5240
+.debug_line     0x00000000     0x5258
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x00000000      0x133 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
  .debug_line    0x00000133     0x13f7 mcp_can.o
  .debug_line    0x0000152a      0x2a4 SPI.o
- .debug_line    0x000017ce      0x31e Test_Bed.o
- .debug_line    0x00001aec     0x17cb RoboClaw.o
- .debug_line    0x000032b7      0x4c4 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_line    0x0000377b      0x28c C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_line    0x00003a07      0x165 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_line    0x00003b6c      0x685 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_line    0x000041f1      0x299 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_line    0x0000448a      0x20f C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .debug_line    0x00004699      0x252 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_line    0x000048eb      0x143 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
- .debug_line    0x00004a2e      0x7d1 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
- .debug_line    0x000051ff       0x41 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_line    0x000017ce      0x336 Test_Bed.o
+ .debug_line    0x00001b04     0x17cb RoboClaw.o
+ .debug_line    0x000032cf      0x4c4 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_line    0x00003793      0x28c C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_line    0x00003a1f      0x165 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x00003b84      0x685 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x00004209      0x299 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x000044a2      0x20f C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_line    0x000046b1      0x252 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x00004903      0x143 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+ .debug_line    0x00004a46      0x7d1 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+ .debug_line    0x00005217       0x41 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_frame    0x00000000     0x2fd4
+.debug_frame    0x00000000     0x2fe0
  *(.debug_frame)
  .debug_frame   0x00000000      0x8fc mcp_can.o
  .debug_frame   0x000008fc       0x54 SPI.o
- .debug_frame   0x00000950       0xa0 Test_Bed.o
- .debug_frame   0x000009f0     0x1b74 RoboClaw.o
- .debug_frame   0x00002564      0x110 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_frame   0x00002674       0xe0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_frame   0x00002754       0x54 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_frame   0x000027a8      0x3ac C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_frame   0x00002b54       0xc4 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_frame   0x00002c18       0x54 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .debug_frame   0x00002c6c       0x7c C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_frame   0x00002ce8       0xf4 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
- .debug_frame   0x00002ddc      0x1d4 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
- .debug_frame   0x00002fb0       0x24 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_frame   0x00000950       0xac Test_Bed.o
+ .debug_frame   0x000009fc     0x1b74 RoboClaw.o
+ .debug_frame   0x00002570      0x110 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_frame   0x00002680       0xe0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_frame   0x00002760       0x54 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x000027b4      0x3ac C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x00002b60       0xc4 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x00002c24       0x54 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_frame   0x00002c78       0x7c C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x00002cf4       0xf4 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+ .debug_frame   0x00002de8      0x1d4 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+ .debug_frame   0x00002fbc       0x24 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_str      0x00000000     0x5219
+.debug_str      0x00000000     0x526c
  *(.debug_str)
  .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
  .debug_str     0x00000208     0x1299 mcp_can.o
                                0x132c (size before relaxing)
  .debug_str     0x000014a1      0x10b SPI.o
                                 0x693 (size before relaxing)
- .debug_str     0x000015ac      0x1b7 Test_Bed.o
-                               0x123a (size before relaxing)
- .debug_str     0x00001763     0x2a5a RoboClaw.o
+ .debug_str     0x000015ac      0x20c Test_Bed.o
+                               0x123e (size before relaxing)
+ .debug_str     0x000017b8     0x2a58 RoboClaw.o
                                0x2ed9 (size before relaxing)
- .debug_str     0x000041bd      0x3fd C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_str     0x00004210      0x3fd C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
                                0x161a (size before relaxing)
- .debug_str     0x000045ba       0x47 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_str     0x0000460d       0x47 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
                                0x140d (size before relaxing)
- .debug_str     0x00004601       0x37 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_str     0x00004654       0x37 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
                                 0x2b9 (size before relaxing)
- .debug_str     0x00004638      0x3a6 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_str     0x0000468b      0x3a6 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
                                0x1247 (size before relaxing)
- .debug_str     0x000049de      0x134 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_str     0x00004a31      0x134 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
                                 0x24f (size before relaxing)
- .debug_str     0x00004b12       0x67 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_str     0x00004b65       0x67 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
                                 0x253 (size before relaxing)
- .debug_str     0x00004b79       0xa9 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_str     0x00004bcc       0xa9 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                                 0x2b4 (size before relaxing)
- .debug_str     0x00004c22       0xac C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+ .debug_str     0x00004c75       0xac C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
                                 0x252 (size before relaxing)
- .debug_str     0x00004cce      0x52f C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+ .debug_str     0x00004d21      0x52f C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
                                0x1930 (size before relaxing)
- .debug_str     0x000051fd       0x1c C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_str     0x00005250       0x1c C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
                                 0x144 (size before relaxing)
 
-.debug_loc      0x00000000    0x1165c
+.debug_loc      0x00000000    0x1165f
  *(.debug_loc)
  .debug_loc     0x00000000     0x3e45 mcp_can.o
  .debug_loc     0x00003e45      0x1d1 SPI.o
- .debug_loc     0x00004016       0xfa Test_Bed.o
- .debug_loc     0x00004110     0x9846 RoboClaw.o
- .debug_loc     0x0000d956      0x4dc C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_loc     0x0000de32      0x1b0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_loc     0x0000dfe2     0x1c87 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_loc     0x0000fc69      0x28d C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_loc     0x0000fef6       0xfe C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .debug_loc     0x0000fff4      0x5fc C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_loc     0x000105f0      0x3d6 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
- .debug_loc     0x000109c6      0xc96 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+ .debug_loc     0x00004016       0xfd Test_Bed.o
+ .debug_loc     0x00004113     0x9846 RoboClaw.o
+ .debug_loc     0x0000d959      0x4dc C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_loc     0x0000de35      0x1b0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_loc     0x0000dfe5     0x1c87 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x0000fc6c      0x28d C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x0000fef9       0xfe C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_loc     0x0000fff7      0x5fc C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x000105f3      0x3d6 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+ .debug_loc     0x000109c9      0xc96 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -1831,16 +1836,16 @@ END GROUP
  .debug_ranges  0x00000208       0x28 SPI.o
  .debug_ranges  0x00000230       0x28 Test_Bed.o
  .debug_ranges  0x00000258      0x420 RoboClaw.o
- .debug_ranges  0x00000678       0x58 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_ranges  0x000006d0       0x38 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_ranges  0x00000708       0x20 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_ranges  0x00000728      0x120 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_ranges  0x00000848       0x38 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_ranges  0x00000880       0x20 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .debug_ranges  0x000008a0       0x28 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_ranges  0x000008c8       0x38 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
- .debug_ranges  0x00000900       0xe0 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
- .debug_ranges  0x000009e0       0x10 C:\Users\booth\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_ranges  0x00000678       0x58 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_ranges  0x000006d0       0x38 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_ranges  0x00000708       0x20 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x00000728      0x120 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x00000848       0x38 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000880       0x20 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_ranges  0x000008a0       0x28 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x000008c8       0x38 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(WMath.o)
+ .debug_ranges  0x00000900       0xe0 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(SoftwareSerial.o)
+ .debug_ranges  0x000009e0       0x10 C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
 .debug_macro
  *(.debug_macro)
