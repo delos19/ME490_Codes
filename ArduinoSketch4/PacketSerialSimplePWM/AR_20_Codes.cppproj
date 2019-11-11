@@ -43,7 +43,7 @@
       </framework-data>
     </AsfFrameworkConfig>
     <avrtool>com.atmel.avrdbg.tool.atmelice</avrtool>
-    <avrtoolserialnumber>J41800065426</avrtoolserialnumber>
+    <avrtoolserialnumber>J42700006099</avrtoolserialnumber>
     <avrdeviceexpectedsignature>0x1E950F</avrdeviceexpectedsignature>
     <com_atmel_avrdbg_tool_atmelice>
       <ToolOptions>
@@ -53,7 +53,7 @@
         <InterfaceName>ISP</InterfaceName>
       </ToolOptions>
       <ToolType>com.atmel.avrdbg.tool.atmelice</ToolType>
-      <ToolNumber>J41800065426</ToolNumber>
+      <ToolNumber>J42700006099</ToolNumber>
       <ToolName>Atmel-ICE</ToolName>
     </com_atmel_avrdbg_tool_atmelice>
     <avrtoolinterface>ISP</avrtoolinterface>
@@ -231,6 +231,15 @@
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="mcp_can_dfs.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Servo.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Servo.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="ServoTimers.h">
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="SPI.cpp">

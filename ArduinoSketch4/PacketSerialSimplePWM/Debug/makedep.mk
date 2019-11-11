@@ -4,6 +4,8 @@
 
 mcp_can.cpp
 
+Servo.cpp
+
 SPI.cpp
 
 Test_Bed.cpp
