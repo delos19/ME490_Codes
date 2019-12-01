@@ -7,7 +7,7 @@ Notes to tune this project:
 2) This project requires an Atmel Ice to program the chip
 3) When connecting, the indicator nub faces inwards towards the ATMEGA328P chip
 
-How to edit the code
+How to edit the code:
 1) Open the project file in atmel studio to edit the code
 2) Open "Test_Bed.cpp". This is the main program that controls the project
 
