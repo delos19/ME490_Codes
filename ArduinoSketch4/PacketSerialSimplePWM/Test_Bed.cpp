@@ -1,4 +1,4 @@
-//Define the clock speed
+//Define the clock speed to 16Mhz
 #define F_CPU 16000000UL
 
 //Included libraries and header files
@@ -58,8 +58,8 @@ void loop() {
 		unsigned long canId = CAN.getCanId();	//Reads each CAN address and assigns it to the unsigned long val canId
 		val = analogRead(potPin);		//Reads the voltage of the potentiometer and assigns it a value between 0 and 1023
 		pos = val;				//Gets the position of the actuator by mapping the value read from the potentiometer between 0 in to 8 in
-		raw = buf[0];				//Stores the value at indices 0 of the buffer array to the integer 'Raw' 
-		//raw = 127;
+		//raw = buf[0];				//Stores the value at indices 0 of the buffer array to the integer 'Raw' 
+		raw = 127;
 		setPoint = map(raw, 0, 255, 0, 530);	//Remaps the read value from the buffer indices to read as a length that maximizes at the maximum actuation length of the system
 	}
 							// TODO: Replace Bang-Bang control loop with PID
