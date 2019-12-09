@@ -1,0 +1,55 @@
+﻿------ Build started: Project: ArduinoCore, Configuration: Debug AVR ------
+Build started.
+Project "ArduinoCore.cppproj" (default targets):
+Target "PreBuildEvent" skipped, due to false condition; ('$(PreBuildEvent)'!='') was evaluated as (''!='').
+Target "CoreBuild" in file "C:\Program Files (x86)\Atmel\Studio\7.0\Vs\Compiler.targets" from project "C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\ArduinoCore.cppproj" (target "Build" depends on it):
+	Task "RunCompilerTask"
+		Shell Utils Path C:\Program Files (x86)\Atmel\Studio\7.0\shellUtils
+		C:\Program Files (x86)\Atmel\Studio\7.0\shellUtils\make.exe all --jobs 12 --output-sync 
+		make: Nothing to be done for 'all'.
+	Done executing task "RunCompilerTask".
+	Task "RunOutputFileVerifyTask"
+	Done executing task "RunOutputFileVerifyTask".
+Done building target "CoreBuild" in project "ArduinoCore.cppproj".
+Target "PostBuildEvent" skipped, due to false condition; ('$(PostBuildEvent)' != '') was evaluated as ('' != '').
+Target "Build" in file "C:\Program Files (x86)\Atmel\Studio\7.0\Vs\Avr.common.targets" from project "C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\ArduinoCore.cppproj" (entry point):
+Done building target "Build" in project "ArduinoCore.cppproj".
+Done building project "ArduinoCore.cppproj".
+
+Build succeeded.
+------ Build started: Project: AR_20_Codes, Configuration: Debug AVR ------
+Build started.
+Project "AR_20_Codes.cppproj" (default targets):
+Target "PreBuildEvent" skipped, due to false condition; ('$(PreBuildEvent)'!='') was evaluated as (''!='').
+Target "CoreBuild" in file "C:\Program Files (x86)\Atmel\Studio\7.0\Vs\Compiler.targets" from project "C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\PacketSerialSimplePWM\AR_20_Codes.cppproj" (target "Build" depends on it):
+	Task "RunCompilerTask"
+		Shell Utils Path C:\Program Files (x86)\Atmel\Studio\7.0\shellUtils
+		C:\Program Files (x86)\Atmel\Studio\7.0\shellUtils\make.exe all --jobs 12 --output-sync 
+		Building file: .././Test_Bed.cpp
+		Invoking: AVR8/GNU C Compiler : 5.4.0
+		"C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-g++.exe" -funsigned-char -funsigned-bitfields -DDEBUG -DF_CPU=16000000L -DARDUINO=10809 -DARDUINO_AVR_UNO -DARDUINO_ARCH_AVR -DUSB_VID=0x2341 -DUSB_PID=0x0043 -DUSB_MANUFACTURER="\"Arduino LLC\""  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\include" -I"..\\..\ArduinoCore\include\core" -I"..\\..\ArduinoCore\include\libraries\SoftwareSerial" -I"..\\..\ArduinoCore\include\variants\standard"  -Os -fno-threadsafe-statics -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -g2 -w -mmcu=atmega328p -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega328p" -c -std=gnu++11 -MD -MP -MF "Test_Bed.d" -MT"Test_Bed.d" -MT"Test_Bed.o"   -o "Test_Bed.o" ".././Test_Bed.cpp" 
+		Finished building: .././Test_Bed.cpp
+		Building target: AR_20_Codes.elf
+		Invoking: AVR8/GNU Linker : 5.4.0
+		"C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-g++.exe" -o AR_20_Codes.elf  mcp_can.o Servo.o SPI.o Test_Bed.o RoboClaw.o Sketch.o   -Wl,-Map="AR_20_Codes.map" -Wl,--start-group -Wl,-lm -Wl,-lArduinoCore  -Wl,--end-group -Wl,-L"C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\ArduinoCore\Debug"  -Wl,--gc-sections -mmcu=atmega328p -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\gcc\dev\atmega328p" -Os  
+		Finished building target: AR_20_Codes.elf
+		"C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-objcopy.exe" -O ihex -R .eeprom -R .fuse -R .lock -R .signature -R .user_signatures  "AR_20_Codes.elf" "AR_20_Codes.hex"
+		"C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-objcopy.exe" -j .eeprom  --set-section-flags=.eeprom=alloc,load --change-section-lma .eeprom=0  --no-change-warnings -O ihex "AR_20_Codes.elf" "AR_20_Codes.eep" || exit 0
+		"C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-objdump.exe" -h -S "AR_20_Codes.elf" > "AR_20_Codes.lss"
+		"C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-objcopy.exe" -O srec -R .eeprom -R .fuse -R .lock -R .signature -R .user_signatures "AR_20_Codes.elf" "AR_20_Codes.srec"
+		"C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-size.exe" "AR_20_Codes.elf"
+		   text	   data	    bss	    dec	    hex	filename
+		   8548	    630	    331	   9509	   2525	AR_20_Codes.elf
+	Done executing task "RunCompilerTask".
+	Task "RunOutputFileVerifyTask"
+				Program Memory Usage 	:	9178 bytes   28.0 % Full
+				Data Memory Usage 		:	961 bytes   46.9 % Full
+	Done executing task "RunOutputFileVerifyTask".
+Done building target "CoreBuild" in project "AR_20_Codes.cppproj".
+Target "PostBuildEvent" skipped, due to false condition; ('$(PostBuildEvent)' != '') was evaluated as ('' != '').
+Target "Build" in file "C:\Program Files (x86)\Atmel\Studio\7.0\Vs\Avr.common.targets" from project "C:\Users\John Wiggins\repos\ME490_Codes\ArduinoSketch4\PacketSerialSimplePWM\AR_20_Codes.cppproj" (entry point):
+Done building target "Build" in project "AR_20_Codes.cppproj".
+Done building project "AR_20_Codes.cppproj".
+
+Build succeeded.
+========== Build: 2 succeeded or up-to-date, 0 failed, 0 skipped ==========
